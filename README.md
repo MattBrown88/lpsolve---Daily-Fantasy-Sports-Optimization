@@ -1,1 +1,6 @@
-This project uses the lpsolve function in R to generate an optimal lineup based on player salary and expected points. I've included a csv file that you can use to generate a lineup as an example.
+Generate an optimal lineup for daily fantasy sports based on a player's expected points while staying under the salary cap.
+
+The project uses R package lpsolve to generate the solution.
+
+I've included a csv data file that you can use to test the code
+

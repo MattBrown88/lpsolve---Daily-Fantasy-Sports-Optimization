@@ -1,7 +1,11 @@
 ####Generate optimal daily fantasy baseball line up using lpsolve function####
 #Author: Matt Brown      email: Matthew.brown.iowa@gmail.com
+#
+#The algorithm takes a csv of player names, positions, salaries and expected points scored and generates an optimal lineup based
+#based on the constraints in the evaluation function.
+#
+#The algorithm can be used across a variety of similar linear optimization problems.
 
-#Generates an optimz
 #Install.packages("lpsolve")
 
 library(lpSolve)

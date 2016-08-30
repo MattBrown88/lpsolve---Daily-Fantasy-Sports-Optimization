@@ -1,4 +1,7 @@
 ####Generate optimal daily fantasy baseball line up using lpsolve function####
+#Author: Matt Brown      email: Matthew.brown.iowa@gmail.com
+
+#Generates an optimz
 #Install.packages("lpsolve")
 
 library(lpSolve)
